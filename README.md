@@ -4,6 +4,6 @@
 
 Bugün öğrendiklerim: 
 
--Bash öğrendim
--freeCodeCamp kullandım
--GitHub repo oluşturdum
+- Bash öğrendim
+- freeCodeCamp kullandım
+- GitHub repo oluşturdum
