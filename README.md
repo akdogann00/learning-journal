@@ -1,2 +1,6 @@
 # learning-journal
-My Learning Journal
+
+08.10.2026
+-Bash öğrendim
+-freeCodeCamp kullandım
+-GitHub repo oluşturdum
